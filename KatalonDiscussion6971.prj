@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description>https://forum.katalon.com/discussion/6971/importing-custom-keywords-classes-recursively-within-a-custom-keyword</description>
+   <name>KatalonDiscussion6971</name>
+   <tag></tag>
+   <UUID>ad0c3d52-2c36-43c1-a462-41ff72b1b021</UUID>
+   <migratedVersion>5.4.0</migratedVersion>
+   <pageLoadTimeout>0</pageLoadTimeout>
+</Project>
